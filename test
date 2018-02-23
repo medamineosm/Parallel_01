@@ -1,0 +1,9 @@
+public Person(Person person) {
+        this.email = person.email;
+        this.lastName = person.lastName;
+        this.firstName = person.firstName;
+        this.age = person.age;
+        this.address = person.address;
+        this.dateRegistration = person.dateRegistration;
+        this.password = person.password;
+    }
